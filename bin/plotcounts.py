@@ -20,7 +20,7 @@ def main(args):
     # plot inverse rank
     # save figure using default or specified filename
     scatplot = df.plot.scatter(x='word_frequency',
-                               y='inverse_rank',
+                               y='rank', loglog=True,
                                figsize=[12, 6],
                                grid=True,
                                xlim=args.xlim)
