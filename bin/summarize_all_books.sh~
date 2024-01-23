@@ -1,0 +1,7 @@
+  812  for x in ../data/*.txt; do echo $x; bash book_summary.sh $x Author; done > authors.txt
+  813  ls
+  814  for x in ../data/*.txt; do echo $x; bash book_summary.sh $x Release; done > releases.txt
+  815  ls
+  816  ls
+  817  history 6
+  818  history 7 > summarize_all_books.sh

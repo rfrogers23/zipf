@@ -1,0 +1,17 @@
+#my_ls.py#
+__pycache__
+book_summary.sh
+book_summary.sh~
+collate.py
+collate.py~
+contents
+countwords.py
+countwords.py~
+my_ls.py
+script_template.py
+script_template.py~
+summarize_all_books.sh
+summarize_all_books.sh~
+text_functions.py
+text_functions.py~
+utilities.py

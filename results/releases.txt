@@ -1,0 +1,14 @@
+../data/dracula.txt
+Release Date: August 16, 2013 [EBook #345]
+../data/frankenstein.txt
+Release Date: June 17, 2008 [EBook #84]
+../data/jane_eyre.txt
+Release Date: April 29, 2007  [eBook #1260]
+../data/moby_dick.txt
+Release Date: December 25, 2008 [EBook #2701]
+../data/sense_and_sensibility.txt
+Release Date: May 25, 2008 [EBook #161]
+../data/sherlock_holmes.txt
+Release Date: April 18, 2011 [EBook #1661]
+../data/time_machine.txt
+Release Date: October 2, 2004 [EBook #35]
